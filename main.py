@@ -10,6 +10,8 @@ print()
 
 print("Playist ID nizi giriniz")
 url = input()
+print()
+print()
 
 if url != "":
             browser = webdriver.Chrome(options=options,executable_path="chromedriver.exe")
