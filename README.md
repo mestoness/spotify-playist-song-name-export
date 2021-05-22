@@ -5,6 +5,10 @@ PL URL : https://open.spotify.com/playlist/4Vrs2wNd62k13sYSpfNAHi?si=33d65ac84ce
 
 PL ID : 4Vrs2wNd62k13sYSpfNAHi
 
+
+
+## Usage
+
 ```
 pip install selenium
 python main.py
