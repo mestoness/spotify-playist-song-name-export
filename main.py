@@ -4,7 +4,9 @@ import time
 options = webdriver.ChromeOptions()
 
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
-
+print("https://github.com/mestoness/spotify-playist-song-name-export")
+print()
+print()
 
 print("Playist ID nizi giriniz")
 url = input()
